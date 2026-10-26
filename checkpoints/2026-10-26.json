@@ -1,0 +1,17 @@
+{
+  "anchors": [],
+  "backfilled": true,
+  "built_at": 1792984654,
+  "checkpoint_hash": "sha256:d8a155b9c355d5c22537c26162550aba8ec286f9330cf2208cc00413eeca4a8a",
+  "count": 24,
+  "day": "2026-10-26",
+  "note": "这条是回填的。记录的时间戳来自本地数据库，没有外部证明。真正的每日锚定从这条之后开始。",
+  "prev_checkpoint_hash": "sha256:650e2f45a9477af9d57c62f0ac2f7100393ae50d6f5260e4ee995a01ded6bbb4",
+  "recorder": "walnutlink.ai",
+  "root_hash": "sha256:b2ce1125b3d6dbd0b80560e01c5c39b092e2ebae9612632f4b2409311d72d5a0",
+  "seq_from": 55,
+  "seq_to": 78,
+  "spec": "opentab/checkpoint/v1",
+  "stream": "walnutlink-main",
+  "total_count": 78
+}
